@@ -1,5 +1,7 @@
 # Satalja-HTML5-webgame
-This is final project in "Web Programming Design". It is a web arcade game using HTML 5 and JavaScript including core game engine, game play, sound, levels, story and graphics. We have implemented multi-layer Canvas for drawing game contents. We have designed core game engine for collision detection, character movement and game speed change.
+This is a web arcade game. The player have to control character and move it from bottom to top with avoiding water and fire. This game is excuted on portal website. It is developed by only HTML5 and Javascript, so it doens't require other programs like flash and activeX. We have used HTML5 and JavaScript to develop this game including core game engine, game play, sound, levels, story and graphics. We have implemented multi-layer Canvas for drawing game contents. We have designed core game engine for collision detection, character movement and game speed change.
+
+#Demo Video
 
 #System Architecture
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic2.png" width="350">
