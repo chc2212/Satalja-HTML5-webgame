@@ -6,7 +6,7 @@ This is final project in "Web Programming Design". It is a web arcade game using
 
 #Flow Map of Functions
 ####Overview
-<img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic1.png" width="350">
+<img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic1.jpg" width="350">
 
 ####Intro and draw ladders
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic3.png" width="350">
