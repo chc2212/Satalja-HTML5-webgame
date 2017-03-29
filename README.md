@@ -3,20 +3,20 @@ This is a web arcade game. The player has to control character and move it from 
 
 # Demo Video
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic.gif" width="350">
-# System Architecture
+#  System Architecture
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic2.png" width="350">
 
-# Flow Map of Functions
-#### Overview
+#  Flow Map of Functions
+####  Overview
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic1.jpg" width="350">
 
-#### Intro and draw ladders
+####  Intro and draw ladders
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic3.png" width="350">
-#### Key events - character movement - jump (quit)
+####  Key events - character movement - jump (quit)
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic4.png" width="350">
-#### Obstacles (water and fire) and animation
+####  Obstacles (water and fire) and animation
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic5.png" width="350">
-#### Collision detection between character and fire
+####  Collision detection between character and fire
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic6.png" width="350">
-#### Stage (level) control
+####  Stage (level) control
 <img src="https://github.com/chc2212/Satalja-HTML5-webgame/blob/master/pic7.png" width="350">
